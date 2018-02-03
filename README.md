@@ -1,5 +1,6 @@
 # Screenshot
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+<img src="https://github.com/raylinhonghu/Angular-Play-with-Material-Chart.js-/blob/master/Capture.PNG" width="300">
 
 # Ng5Material
 
